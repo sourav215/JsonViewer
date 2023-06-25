@@ -1,0 +1,29 @@
+.head {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.tab {
+  padding: 5px 20px;
+  cursor: pointer;
+  margin: 0px 3px;
+}
+
+
+.take-input{
+  padding: 20px;
+  margin: 20px;
+  margin-top: -20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.display-json{
+  padding: 20px;
+  margin: 20px;
+  margin-top: -20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.json-obj{
+  padding-left: 30px;
+}
